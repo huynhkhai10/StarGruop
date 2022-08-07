@@ -1,0 +1,12 @@
+#EXTINF
+
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-TARGETDURATION:10
+#EXT-X-MEDIA-SEQUENCE:26
+#EXTINF:9.901,
+https://hni-fpt-002-livecdn-vthn-vnd.vieon.vn/8ad9690e7422421bff7340aa2a869bc0/1659935218364/vtvcab/live/hd_vtvcab_21/playlist.m3u8
+#EXTINF:9.901,
+https://hni-fpt-002-livecdn-vthn-vnd.vieon.vn/8ad9690e7422421bff7340aa2a869bc0/1659935218364/vtvcab/live/hd_vtvcab_21/playlist.m3u8
+#EXTINF:9.501,
+https://hni-fpt-002-livecdn-vthn-vnd.vieon.vn/8ad9690e7422421bff7340aa2a869bc0/1659935218364/vtvcab/live/hd_vtvcab_21/playlist.m3u8
