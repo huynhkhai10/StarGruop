@@ -1,5 +1,0 @@
-#EXTM3U
-#EXT-X-VERSION:7
-#EXT-X-INDEPENDENT-SEGMENTS
-#EXTINF:0 tvg-id="vtv1hd"group-title="VTV" tvg-logo="https://raw.githubusercontent.com/huynhkhai10/LogoTvVn/main/VTV1_HD_M.png" tvg-chno="1" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/vtv1hd_1500.stream/chunks_dvr_range-${start}-${offset}.m3u8,VTV1 FHD
-https://hni-fpt-002-livecdn-vthn-vnd.vieon.vn/8ad9690e7422421bff7340aa2a869bc0/1659935218364/vtvcab/live/hd_vtvcab_21/playlist.m3u8
